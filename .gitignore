@@ -1,0 +1,8 @@
+dataset
+data
+sample
+.vscode/settings.json
+aws-credentials.json
+__pycache__
+*.log
+docs/
